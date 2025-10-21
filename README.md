@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, ich bin Parsa Aminian
 
-<!--
-**parsa-aminian-dev/parsa-aminian-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Informatikstudent (B.Sc.) an der Goethe-Universität Frankfurt  
+💻 Interessiert an Softwareentwicklung, Data Analysis & Cloud Computing  
+🌱 Aktuell: Programmierpraktikum – NLP & Texttechnologie  
+📊 Arbeite mit: Python | Pandas | SQL | AWS | GitHub  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologien & Tools
+![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-orange)
+![Git](https://img.shields.io/badge/-Git-black?logo=git)
+![AWS](https://img.shields.io/badge/-AWS-yellow?logo=amazon-aws)
+![Pandas](https://img.shields.io/badge/-Pandas-purple)
+
+---
+
+### 📂 Projekte (Auswahl)
+- 🌤️ [Wetteranalyse Frankfurt 2024](https://github.com/parsaaminian/weather-analysis-frankfurt) – Datenanalyse & Visualisierung mit Pandas  
+- 🤖 [Textanalyse Bundestagsreden (NLP)](https://github.com/parsaaminian/nlp-parliament) – Sprachverarbeitung mit Python  
+- 🌐 [Portfolio Website](https://github.com/parsaaminian/portfolio) – HTML, CSS, Flask  
+
+---
+
+### 📫 Kontakt
+📧 [parsaaminian8080@gmail.com](mailto:parsaaminian8080@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/parsaaminian)
