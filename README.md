@@ -1,9 +1,11 @@
-# 👋 Hi, I'm Parsa Aminian
 
-🎓 Computer Science Student (B.Sc.) at Goethe University Frankfurt  
-💻 Passionate about **Software Development**, **Data Analysis**, and **Cloud Computing**  
-🌱 Currently: Programming Lab – NLP & Text Technology  
-📊 Working with: Python | Java | SQL | UML Architecture | ER Diagrams | AWS | GitHub  
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2FC630&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Parsa+Aminian+👨‍💻;Turning+ideas+into+code+%26+code+into+impact.;Passionate+about+Data+%2C+Cloud+%26+Software.;Let's+shape+the+future+together!)](https://git.io/typing-svg)
+
+
+
+
 
 ---
 
@@ -44,8 +46,8 @@
 
 ### 📫 Get in Touch
 📧 [parsaaminian8080@gmail.com](mailto:parsaaminian8080@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/parsaaminian)  
-🌐 [GitHub Pages](https://parsa-aminian-dev.github.io) *(optional if you build a portfolio site)*
+🔗 [LinkedIn](https://linkedin.com/in/parsa-aminian-111551289)  
+
 
 ---
 
