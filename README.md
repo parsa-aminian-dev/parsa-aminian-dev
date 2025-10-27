@@ -22,13 +22,11 @@
 ---
 
 ### 📂 Featured Projects
-- 🌤️ [**Weather Analysis Frankfurt 2024**](https://github.com/parsaaminian/weather-analysis-frankfurt)  
-  *Data analysis and visualization using Python, Pandas & Matplotlib*
 
-- 🤖 [**NLP Parliament Project**](https://github.com/parsaaminian/nlp-parliament)  
+- 🤖 [**NLP Parliament Project**]coming soon
   *Natural Language Processing & Text Analysis using Python and NLTK*
 
-- 🌐 [**Personal Portfolio Website**](https://github.com/parsaaminian/portfolio)  
+- 🌐 [**Personal Portfolio Website**]
   *Responsive portfolio website built with HTML, CSS and Flask*
 
 - 🧭 [**Hotel Management Database**](#) *(coming soon)*  
